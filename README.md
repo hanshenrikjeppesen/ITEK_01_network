@@ -1,6 +1,5 @@
-# Welcome to
-## ITEK Network
-### github page
+# Welcome to ITEK Network
+## github page
 
 You can use the [editor on GitHub](https://github.com/hanshenrikjeppesen/ITEK_01_network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
