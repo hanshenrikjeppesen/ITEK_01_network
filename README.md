@@ -1,7 +1,28 @@
-# Welcome to ITEK Network
-## github page
+ITEK Network - github
 
-You can use the [editor on GitHub](https://github.com/hanshenrikjeppesen/ITEK_01_network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+```python
+# chat.py  (c) 2013 @whaleygeek
+#
+# A simple internet-chat application
+
+import network
+import sys
+
+def heard(phrase):
+  print("them:" + phrase)
+
+if (len(sys.argv) >= 2):
+  network.call(sys.argv[1], whenHearCall=heard)
+else:  
+  network.wait(whenHearCall=heard)
+
+while network.isConnected():
+  #phrase = raw_input() #python2
+  phrase = input() # python3
+  print("me:" + phrase)
+  network.say(phrase)
+  
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
