@@ -1,4 +1,11 @@
-ITEK Network - github
+# ITEK Network - github
+For comments and suggestions or more information please contact me:
+[eMail](mailto:hans@eaaa.dk]
+[Linkedin](https://www.linkedin.com/in/hansjeppesen/)
+
+
+### Introduction
+
 
 ```python
 # chat.py  (c) 2013 @whaleygeek
@@ -17,7 +24,7 @@ else:
   network.wait(whenHearCall=heard)
 
 while network.isConnected():
-  #phrase = raw_input() #python2
+  # phrase = raw_input() # python2
   phrase = input() # python3
   print("me:" + phrase)
   network.say(phrase)
