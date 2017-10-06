@@ -1,5 +1,6 @@
 # ITEK Network - github
 
+______
 For comments and suggestions or more information please contact me:
 
 [eMail](mailto:hans@eaaa.dk)
@@ -9,7 +10,7 @@ For comments and suggestions or more information please contact me:
 ______
 
 
-### Introduction
+## Introduction
 
 This is meant as an introduction to networking using the Raspberry Pi. You will set up and use various networks. You will be introduced to basic networking through practical activities.
 
@@ -39,7 +40,7 @@ while network.isConnected():
   
 ```
 
-But first we neew to understand the concept of ```computer networks```
+But first we need to understand the concept of ```computer networks```
 
 ### Markdown
 
