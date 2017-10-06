@@ -6,12 +6,14 @@ For comments and suggestions or more information please contact me:
 
 [Linkedin](https://www.linkedin.com/in/hansjeppesen/){:target="_blank"}
 
-test
 ______
 
 
 ### Introduction
 
+This is meant as an introduction to networking using the Raspberry Pi. You will set up and use various networks. You will be introduced to basic networking through practical activities.
+
+In the first expriment we will use the following python code to make a simple network chat.
 
 ```python
 # chat.py  (c) 2013 @whaleygeek
