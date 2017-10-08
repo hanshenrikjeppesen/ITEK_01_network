@@ -41,6 +41,7 @@ while network.isConnected():
 
 But first we need to understand the concept of ```computer networks```
 
+![computer network](/ITEK_01_network/images/network-cable-ethernet-computer-159304.jpeg)
 
 
 ### Support or Contact
