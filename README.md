@@ -9,7 +9,6 @@ For comments and suggestions or more information please contact me:
 
 ______
 
-
 ## Introduction
 
 This is meant as an introduction to networking using the Raspberry Pi. You will set up and use various networks. You will be introduced to basic networking through practical activities.
@@ -72,4 +71,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with codes or GitHub? Check out [documentation](https://help.github.com/categories/github-pages-basics/){:target="_blank"} or [RaspberryPi](https://www.raspberrypi.org/documentation/){:target="_blank"} and we’ll help you sort it out.
