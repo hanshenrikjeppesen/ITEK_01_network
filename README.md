@@ -13,7 +13,10 @@ ______
 
 This is meant as an introduction to networking using the Raspberry Pi. You will set up and use various networks. You will be introduced to basic networking through practical activities.
 
-In the first expriment we will use the following python code to make a simple network chat.
+![computer network](/ITEK_01_network/images/network-cable-ethernet-computer-159304.jpeg)
+
+In the first experiment we will use two Raspberry pi's to set up a small network. We will need to assign each raspberry pi a static IP address. If you need help with that, try lookin at this [tutorial](https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update){:target="blank"}
+The abbreviation IP stands for Internet Protocol. (An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication)(ref)
 
 ```python
 # chat.py  (c) 2013 @whaleygeek
@@ -41,7 +44,7 @@ while network.isConnected():
 
 But first we need to understand the concept of ```computer networks```
 
-![computer network](/ITEK_01_network/images/network-cable-ethernet-computer-159304.jpeg)
+
 
 
 ### Support or Contact
