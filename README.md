@@ -16,7 +16,7 @@ This is meant as an introduction to networking using the Raspberry Pi. You will 
 ![computer network](/ITEK_01_network/images/network-cable-ethernet-computer-159304.jpeg)
 
 In the first experiment we will use two Raspberry pi's to set up a small network. We will need to assign each raspberry pi a static IP address. If you need help with that, try lookin at this [tutorial](https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update){:target="blank"}
-The abbreviation IP stands for Internet Protocol. (An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication)(ref)
+The abbreviation IP stands for Internet Protocol. An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication ([ref](https://tools.ietf.org/html/rfc760){:target="_blank"})
 
 ```python
 # chat.py  (c) 2013 @whaleygeek
