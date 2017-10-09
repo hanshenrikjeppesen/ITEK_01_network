@@ -14,7 +14,7 @@ def reading():
     GPIO.output(15,GPIO.LOW)
     GPIO.output(15,GPIO.HIGH)
     pingtime = time.time()
-    time.sleep(0.00001)
+    time.sleep(.00001)
     GPIO.output(15,GPIO.LOW)
     while GPIO.input(16) == 0:
         pingtime = time.time()
@@ -32,5 +32,5 @@ while True:
     distMeas = reading()
     print(distMeas)
     print("")
-    time.sleep(1)
+    time.sleep(0.25)
 
