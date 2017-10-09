@@ -33,8 +33,8 @@ def reading(sensor):
 
 
 while True:
-    distance = reading(0)
-    print(distance)
-    print()
+    distMeas = reading(0)
+    print(distMeas)
+    print("\n")
     time.sleep(0.25)
 
