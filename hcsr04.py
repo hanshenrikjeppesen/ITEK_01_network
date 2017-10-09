@@ -15,13 +15,13 @@ def reading(sensor):
     if sensor == 0:
         GPIO.output(15,GPIO.LOW)
         GPIO.output(15,GPIO.HIGH)
-        pingtime = datetime.time()
+        pingtime = time.time()
         time.sleep(0.00001)
         GPIO.output(15,GPIO.LOW)
         while GPIO.input(16)==0:
-            pingtime = datetime.time()
+            pingtime = time.time()
         while GPIO.input(16)==1:
-            echotime = datetime.time()
+            echotime = time.time()
         if (echotime is not None) and (pingtime is not None):
             elapsedtime = echotime - pingtime
             distance = elapsedtime * 17000
