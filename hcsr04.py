@@ -27,8 +27,8 @@ def reading(sensor):
             distance = elapsedtime * 17000
         else:
             distance = 0
-        print(pingtime)
-        print(echotime)
+        #print(pingtime)
+        #print(echotime)
         return distance
 
 
