@@ -1,12 +1,11 @@
 import time
-import datetime
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
 
-GPIO.setup(15,GPIO.OUT)
-GPIO.setup(16,GPIO.IN)
+GPIO.setup(15, GPIO.OUT)
+GPIO.setup(16, GPIO.IN)
 
 
 def reading(sensor):
@@ -18,9 +17,9 @@ def reading(sensor):
         pingtime = time.time()
         time.sleep(0.00001)
         GPIO.output(15,GPIO.LOW)
-        while GPIO.input(16)==0:
+        while GPIO.input(16) == 0:
             pingtime = time.time()
-        while GPIO.input(16)==1:
+        while GPIO.input(16) == 1:
             echotime = time.time()
         if (echotime is not None) and (pingtime is not None):
             elapsedtime = echotime - pingtime
@@ -35,6 +34,6 @@ def reading(sensor):
 while True:
     distMeas = reading(0)
     print(distMeas)
-    print("\n")
+    print("")
     time.sleep(1)
 
