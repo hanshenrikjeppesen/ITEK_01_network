@@ -36,5 +36,5 @@ while True:
     distMeas = reading(0)
     print(distMeas)
     print("\n")
-    time.sleep(0.25)
+    time.sleep(1)
 
