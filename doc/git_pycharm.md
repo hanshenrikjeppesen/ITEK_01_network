@@ -1,5 +1,5 @@
 # PyCharm and GitHub
-- with Raspberry Pi projects
+-with Raspberry Pi projects
 
 ## Introduction
 
