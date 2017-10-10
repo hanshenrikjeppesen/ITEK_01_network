@@ -13,7 +13,7 @@ GPIO.setup(ECHO, GPIO.IN)
 def distMeas():
 
     GPIO.output(TRIG, False)
-    time.sleep(0.5)
+    time.sleep(0.05)
     GPIO.output(TRIG, True)
     time.sleep(0.00001)
     GPIO.output(TRIG, False)
