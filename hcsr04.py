@@ -13,7 +13,7 @@ def distMeas():
     # ensure that the Trigger pin is set low
     # and gives the sensor time to settle
     GPIO.output(TRIG, False)
-    time.sleep(0.005)
+    time.sleep(0.0005)
     # The HC-SR04 sensor requires a short 10uS pulse to trigger the module
     # 8 ultrasound bursts at 40 kHz
     GPIO.output(TRIG, True)
