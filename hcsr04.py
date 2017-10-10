@@ -32,10 +32,13 @@ def distMeas():
 
     distance = round(distance, 1) # we will round our distance to 1 decimal places (for neatness!)
 
-    return distance
+    if distance > 400:
+        return None
+    else:
+        return distance
 
 while True:
     distanceToObject = distMeas()
-    print("Range to object is {} cm".format(distanceToObject))
+    print("Distance to object is {} cm".format(distanceToObject))
     time.sleep(0.25)
 
