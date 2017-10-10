@@ -10,12 +10,10 @@ ECHO = 24
 GPIO.setup(TRIG, GPIO.OUT)
 GPIO.setup(ECHO, GPIO.IN)
 
-print("distance measurement in progress")
-
 def distMeas():
 
     GPIO.output(TRIG, False)
-    time.sleep(2)
+    time.sleep(0.5)
     GPIO.output(TRIG, True)
     time.sleep(0.00001)
     GPIO.output(TRIG, False)
