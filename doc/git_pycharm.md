@@ -1,2 +1,1 @@
-# Pycharm and GitHub
-## - with Raspberry Pi projects 
+# Pycharm and GitHub - with Raspberry Pi projects 
