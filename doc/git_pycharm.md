@@ -20,7 +20,7 @@ For comments and suggestions or more information please contact me:
 
 ______
 
-## Installalation
+## Installation
 
 - First of course we must install `PyCharm` on Windows, Linux or MacOS [download](https://www.jetbrains.com/pycharm/download/)
 - We also need to install `Git` - try looking at this [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -30,6 +30,14 @@ ______
 Lets take it one step at a time:
 
 ## Step 1 - PyCharm and Git(Hub)
+
+Let’s take it one step at a time. When you have installed PyCharm and Git on your computer and you have made a user account on GitHub, we are almost ready to go.
+
+You will need to make a repository in GitHub for your project [link](https://help.github.com/articles/creating-a-new-repository/)
+
+
+
+
 
 
 
