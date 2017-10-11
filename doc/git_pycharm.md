@@ -42,7 +42,7 @@ Now we are almost ready to open `PyCharm` and work on the file `test.py`.
 
 But first we need to configure PyCharm with the information of our GitHub account, so click on Configure down in the right corner (see screenshot):
 
-![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure.png)
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure.jpg)
 
 
 
