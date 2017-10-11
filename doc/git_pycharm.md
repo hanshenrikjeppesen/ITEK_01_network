@@ -53,8 +53,12 @@ But first we need to configure PyCharm with the information of our GitHub accoun
 
 Now that we have a connection to GitHub (you can test it in Settings) we are now able to `Clone` that repository to a local project in PyCharm and keep a local version of the code.
 
-![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_clone.jpg)
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_git_clone.jpg)
 
+1. Choose the repository that you want to clone
+1. Test the connection (hopefully it will work)
+1. If you want to change the `Parent Directory` and/or `Directory Name` locally, you can do it here
+1. Finally Click Clone
 
 
 
