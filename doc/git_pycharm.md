@@ -5,7 +5,7 @@
 
 [PyCharm](https://www.jetbrains.com/pycharm/download/){:target="_blank"} Is a Lightweight IDE for Python & Scientific development.
 
-![Git logo](doc/images/Git-Logo-2Color.png)
+![Git logo](ITEK_01_network/doc/images/Git-Logo-2Color.png)
 [GitHub](https://github.com/){:target="_blank"} is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.(Wiki)
 
 
