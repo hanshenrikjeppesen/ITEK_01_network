@@ -38,7 +38,7 @@ When you have the GitHub repository, you can make a new file and call it a name 
 ## Step 2 PyCharm
 
 Now we are ready to open `PyCharm` and work on the file `test.py`.
-![PyCharm VCS](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_VCS.png){:style="height:159px;width:381px;";}
+![PyCharm VCS](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_VCS.png)
 
 
 
