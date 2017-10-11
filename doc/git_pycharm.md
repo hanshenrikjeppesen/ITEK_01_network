@@ -67,7 +67,22 @@ Now that we have a connection to GitHub (you can test it in Settings) we are now
 
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_git_yes.jpg)
 
-**YES NOW LET THE FUN BEGIN**
+**YES! -  NOW LET THE FUN BEGIN**
+
+## Step 4 Raspberry Pi
+
+Now let us turn to the Raspberry and get it up and running. We will need to install git on it before we can Clone, Commit, and Push/Pull code to and from the Raspberry. So let’s do that right away. Connect to the Raspberry Pi using SSH.
+
+`sudo apt-get update`
+
+`sudo apt-get install git`
+
+`git config --global user.email "info@frist.dk"`
+`git config --global user.name "hanshenrikjeppesen"`
+
+
+
+
 
 
 
