@@ -21,4 +21,4 @@ ______
 ## PyCharm
 
 
-First of course we must have installed ´´´PyCharm´´´ 
+First of course we must have installed '''PyCharm''' 
