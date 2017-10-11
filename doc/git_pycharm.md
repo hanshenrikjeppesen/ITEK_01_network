@@ -44,7 +44,10 @@ But first we need to configure PyCharm with the information of our GitHub accoun
 
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure.jpg)
 
+Find the “Version Control” and choose “GitHub”
+Set Auth Type to Password and type in your username (login) and Password for the GitHub account that you have made. 
 
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure_github.jpg)
 
 
 
