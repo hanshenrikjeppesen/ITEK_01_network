@@ -33,8 +33,13 @@ Let’s take it one step at a time. When you have installed PyCharm and Git on y
 
 You will need to make a repository in GitHub for your project [see this for info](https://help.github.com/articles/creating-a-new-repository/)
 
-When you have the GitHub repository, you can make a new file and call it a name for instance `test.py` [see this for info]( https://help.github.com/articles/creating-new-files/)
+When you have the GitHub repository, you can make a new file and call it a name for instance `helloWorld.py` [see this for info]( https://help.github.com/articles/creating-new-files/) and type in a simple python program:
 
+```Python
+
+print('Hello World!)
+
+```
 ## Step 2 PyCharm Setup
 
 Now we are almost ready to open `PyCharm` and work on the file `test.py`.
@@ -60,8 +65,10 @@ Now that we have a connection to GitHub (you can test it in Settings) we are now
 1. If you want to change the `Parent Directory` and/or `Directory Name` locally, you can do it here
 1. Finally Click `Clone`
 
-YES
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_git_yes.jpg)
+
+**YES NOW LET THE FUN BEGIN**
+
 
 
 
