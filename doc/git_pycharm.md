@@ -56,9 +56,16 @@ Now that we have a connection to GitHub (you can test it in Settings) we are now
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_git_clone.jpg)
 
 1. Choose the repository that you want to clone
-1. Test the connection (hopefully it will work)
+1. `Test` the connection (hopefully it will work)
 1. If you want to change the `Parent Directory` and/or `Directory Name` locally, you can do it here
-1. Finally Click Clone
+1. Finally Click `Clone`
+
+YES
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_git_yes.jpg)
+
+
+
+
 
 
 
