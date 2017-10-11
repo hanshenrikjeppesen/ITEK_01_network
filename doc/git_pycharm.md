@@ -22,8 +22,8 @@ ______
 
 ## Install PyCharm and Git
 
-1. First of course we must install ```PyCharm``` on Windows, Linux or MacOS [download](https://www.jetbrains.com/pycharm/download/)
-1. We also need to install Git - try looking at this [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+1. First of course we must install `PyCharm` on Windows, Linux or MacOS [download](https://www.jetbrains.com/pycharm/download/)
+1. We also need to install `Git` - try looking at this [link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 1. You need to do a Git installation on the raspberry as well
 
 
