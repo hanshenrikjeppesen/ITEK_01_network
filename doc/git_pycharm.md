@@ -35,7 +35,7 @@ You will need to make a repository in GitHub for your project [see this for info
 
 When you have the GitHub repository, you can make a new file and call it a name for instance `helloWorld.py` [see this for info]( https://help.github.com/articles/creating-new-files/) and type in a simple python program:
 
-```Python
+```python
 
 print('Hello World!)
 
