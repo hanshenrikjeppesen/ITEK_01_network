@@ -98,7 +98,11 @@ So, therefore, let's start by placing ourselves in the folder structure we want 
 
 Now you will need the URL for the Repository. You can find it here:
 
-![Git find URL](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_repo_URL.png)
+![Git find URL](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_repo_URL_new.png)
+
+In the case of my "Hello World" Repository with my "helloWorld.py" file the URL is:
+`https://github.com/hanshenrikjeppesen/Hello-World.git`
+
 
 
 
