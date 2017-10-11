@@ -1,3 +1,5 @@
+# Test program for ultra sonic sensor HC-SR04
+
 import time
 import RPi.GPIO as GPIO
 
