@@ -81,7 +81,7 @@ Install Git on the Raspberry Pi
 
 `sudo apt-get install git`
 
-We need let git know who we are, so lets give the config file som basic information
+We need to let git know who we are, so lets give the config file som basic information
 
 `git config --global user.email "your@email"`
 
@@ -89,9 +89,18 @@ We need let git know who we are, so lets give the config file som basic informat
 
 The terms, `Clone`, `Commit`, and `Push/Pull` is the terminology that git uses and [Oliver Steele](http://blog.osteele.com/2008/05/my-git-workflow/) made this complex but useful diagram for Git Data transport:
 
-![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git-transport.png)
+![Git data transport](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git-transport.png)
 
 You don't need to understand and explain the diagram, but it gives you a overview of where data is and where it goes when you issue different commands. So let’s start by clone the GitHub repository “Hello-World” to our Raspberry Pi.
+
+When you `Clone` a repository you will get a directory on the Raspberry Pi with the name of the Repository. 
+So, therefore, let's start by placing ourselves in the folder structure we want to create a Repository-folder from and then type:
+
+Now you will need the URL for the Repository. You can find it here:
+
+![Git find URL](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_repo_URL.png)
+
+
 
 
 
