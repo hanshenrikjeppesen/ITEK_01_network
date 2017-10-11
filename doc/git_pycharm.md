@@ -71,14 +71,28 @@ Now that we have a connection to GitHub (you can test it in Settings) we are now
 
 ## Step 4 Raspberry Pi
 
-Now let us turn to the Raspberry and get it up and running. We will need to install git on it before we can Clone, Commit, and Push/Pull code to and from the Raspberry. So let’s do that right away. Connect to the Raspberry Pi using SSH.
+Now let us turn to the Raspberry Pi and get it up and running. We will need to install git on it before we can `Clone`, `Commit`, and `Push/Pull` code to and from the Raspberry. So let’s do that right away. Connect to the Raspberry Pi using SSH.
+
+Prepare for install and do a update
 
 `sudo apt-get update`
 
+Install Git on the Raspberry Pi
+
 `sudo apt-get install git`
 
-`git config --global user.email "info@frist.dk"`
-`git config --global user.name "hanshenrikjeppesen"`
+We need let git know who we are, so lets give the config file som basic information
+
+`git config --global user.email "your@email"`
+
+`git config --global user.name "userNameOnGitHub"`
+
+The terms, `Clone`, `Commit`, and `Push/Pull` is the terminology that git uses and [Oliver Steele](http://blog.osteele.com/2008/05/my-git-workflow/) made this complex but useful diagram for Git Data transport:
+
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git-transport.png)
+
+You don't need to understand and explain the diagram, but it gives you a overview of where data is and where it goes when you issue different commands. So let’s start by clone the GitHub repository “Hello-World” to our Raspberry Pi.
+
 
 
 
