@@ -103,6 +103,22 @@ Now you will need the URL for the Repository. You can find it here:
 In the case of my "Hello World" Repository with my "helloWorld.py" file the URL is:
 `https://github.com/hanshenrikjeppesen/Hello-World.git`
 
+Lets clone a repository:
+
+`git clone https://github.com/hanshenrikjeppesen/Hello-World.git`
+
+Hopefully you would get something like:
+
+![Git clone rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_clone_rasp.png)
+
+Do a `ls` and see if the directory is there.
+
+![Git ls rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_ls_rasp.png)
+
+
+
+
+
 
 
 
