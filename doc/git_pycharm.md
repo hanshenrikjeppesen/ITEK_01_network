@@ -37,7 +37,7 @@ When you have the GitHub repository, you can make a new file and call it a name 
 
 ```python
 
-print('Hello World!)
+print('Hello World!')
 
 ```
 ## Step 2 PyCharm Setup
