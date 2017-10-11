@@ -8,7 +8,7 @@ TRIG = 23
 ECHO = 24
 GPIO.setup(TRIG, GPIO.OUT)
 GPIO.setup(ECHO, GPIO.IN)
-#test stress
+
 
 def distMeas():
     # ensure that the Trigger pin is set low
@@ -40,6 +40,6 @@ def distMeas():
 
 while True:
     distanceToObject = distMeas()
-    print("Distance to object is {} cm".format(distanceToObject))
+    print("range to object is {} cm".format(distanceToObject))
     time.sleep(0.25)
 
