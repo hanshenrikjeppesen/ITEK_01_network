@@ -8,6 +8,7 @@ TRIG = 23
 ECHO = 24
 GPIO.setup(TRIG, GPIO.OUT)
 GPIO.setup(ECHO, GPIO.IN)
+#test
 
 def distMeas():
     # ensure that the Trigger pin is set low
