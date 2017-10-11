@@ -35,7 +35,7 @@ Let’s take it one step at a time. When you have installed PyCharm and Git on y
 
 You will need to make a repository in GitHub for your project [link](https://help.github.com/articles/creating-a-new-repository/)
 
-
+When you have the GitHub setup and a repository, you can make a new file and call it test.py [link]( https://help.github.com/articles/creating-new-files/)
 
 
 
