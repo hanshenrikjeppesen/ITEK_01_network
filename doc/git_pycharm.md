@@ -27,8 +27,6 @@ ______
 - If you don’t already have a GitHub account, you will need to setup a user account [link](https://github.com/)
 - You need to do a Git installation on the raspberry as well
 
-Lets take it one step at a time:
-
 ## Step 1 - PyCharm and Git(Hub)
 
 Let’s take it one step at a time. When you have installed PyCharm and Git on your computer and you have made a user account on GitHub, we are almost ready to go.
