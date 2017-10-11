@@ -115,6 +115,15 @@ Do a `ls` and see if the directory is there.
 
 ![Git ls rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_ls_rasp.png)
 
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_python_first.png)
+
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_change_code.png)
+
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_commit_push.png)
+
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_push_succes.png)
+
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_git_pull_run_code.png)
 
 
 
