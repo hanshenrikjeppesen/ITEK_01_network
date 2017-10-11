@@ -35,7 +35,7 @@ You will need to make a repository in GitHub for your project [see this for info
 
 When you have the GitHub repository, you can make a new file and call it a name for instance `test.py` [see this for info]( https://help.github.com/articles/creating-new-files/)
 
-## Step 2 PyCharm
+## Step 2 PyCharm Setup
 
 Now we are almost ready to open `PyCharm` and work on the file `test.py`.
 ![PyCharm VCS](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_VCS.png)
@@ -45,10 +45,15 @@ But first we need to configure PyCharm with the information of our GitHub accoun
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure.jpg)
 
 1. Find the “Version Control” and choose “GitHub”
-1. Set Auth Type to Password and type in your username (login) and Password for the GitHub account that you have made. 
+1. Set Auth Type to Password and type in your username (login) and Password for the GitHub account that you have made. Click on Apply and OK. 
 
 ![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_configure_github.jpg)
 
+## Step 3 PyCharm Clone Repository
+
+Now that we have a connection to GitHub (you can test it in Settings) we are now able to `Clone` that repository to a local project in PyCharm and keep a local version of the code.
+
+![PyCharm configure](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_clone.jpg)
 
 
 
