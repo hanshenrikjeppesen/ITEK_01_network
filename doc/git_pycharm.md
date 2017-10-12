@@ -42,7 +42,7 @@ print('Hello World!')
 ```
 ## Step 2 PyCharm Setup
 
-Now we are almost ready to open `PyCharm` and work on the file `test.py`.
+Now we are almost ready to open `PyCharm` and work on the file `helloWorld.py`.
 ![PyCharm VCS](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/PyCharm_VCS.png)
 
 But first we need to configure PyCharm with the information of our GitHub account, so click on Configure down in the right corner (see screenshot):
@@ -94,8 +94,7 @@ The terms, `Clone`, `Commit`, and `Push/Pull` is the terminology that git uses a
 You don't need to understand and explain the diagram, but it gives you a overview of where data is and where it goes when you issue different commands. So let’s start by clone the GitHub repository “Hello-World” to our Raspberry Pi.
 
 When you `Clone` a repository you will get a directory on the Raspberry Pi with the name of the Repository. 
-So, therefore, let's start by placing ourselves in the folder structure we want to create a Repository-folder from and then type:
-
+So, therefore, let's start by placing ourselves in the folder structure we want to create a Repository-folder from.
 Now you will need the URL for the Repository. You can find it here:
 
 ![Git find URL](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_repo_URL_new.png)
