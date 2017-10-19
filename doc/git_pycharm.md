@@ -139,7 +139,8 @@ for i in range(10):
 ```
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_change_code.png)
-
+Once you have changed the code, find the icon that indicates commit
+![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_change_code2.png)
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_commit_push.png)
 
