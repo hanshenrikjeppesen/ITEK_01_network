@@ -115,8 +115,9 @@ I hope it's there and we can now move on to the fun.
 
 ![Git ls rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_ls_rasp.png)
 
-If you like, try running the python program `helloWorld.py` You do that by typing `python3 helloWorld.py`
-The program is taken from Github and should give the following output `Hello World!` 
+If you like, try running the python program `helloWorld.py`
+You do that by typing `python3 helloWorld.py`
+The program is cloned from Github and should give the following output `Hello World!` 
 because the program is as follows:
 
 ```python
@@ -124,9 +125,15 @@ because the program is as follows:
 print('Hello World!')
 ```
 
+The screenshot below is the output I get when I run the program
+
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_python_first.png)
 
+Now we would like to change our program and add some more interesting code. 
+Therefore, we return to PyCharm. Here we want to expand our hello world script
+
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_change_code.png)
+
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_commit_push.png)
 
