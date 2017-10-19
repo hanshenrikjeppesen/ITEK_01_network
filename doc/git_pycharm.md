@@ -144,6 +144,9 @@ Once you have changed the code, find the icon that indicates commit
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_commit_push.png)
 
+make sure you choose Commit and Push, 
+hopefully everything goes well and you get a message saying `Push successful`
+
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_push_succes.png)
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_git_pull_run_code.png)
