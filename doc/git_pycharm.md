@@ -130,7 +130,13 @@ The screenshot below is the output I get when I run the program
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_python_first.png)
 
 Now we would like to change our program and add some more interesting code. 
-Therefore, we return to PyCharm. Here we want to expand our hello world script
+Therefore, we return to PyCharm. Here we want to expand our hello world script.
+
+Let us make the following change to the code:
+```python
+for i in range(10):
+    print("This is message number {} of Hello World! script".format(i))
+```
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/pycharm_change_code.png)
 
