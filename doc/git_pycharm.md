@@ -110,9 +110,19 @@ Hopefully you would get something like:
 
 ![Git clone rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_clone_rasp.png)
 
-Do a `ls` and see if the directory is there.
+Do a `ls` and see if the directory is is located on the Raspberry Pi. 
+I hope it's there and we can now move on to the fun.
 
 ![Git ls rasp](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/git_ls_rasp.png)
+
+If you like, try running the python program `helloWorld.py` You do that by typing `python3 helloWorld.py`
+The program is taken from Github and should give the following output `Hello World!` 
+because the program is as follows:
+
+```python
+# a simple python script
+print('Hello World!')
+```
 
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_python_first.png)
 
