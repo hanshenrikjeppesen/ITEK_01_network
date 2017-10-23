@@ -20,9 +20,9 @@ The abbreviation IP stands for Internet Protocol. An Internet Protocol address (
 
 We will also try to setup GitHub and PyCharm so that you will be able to work on code in groups. It will also give you the possibility to clone or pull your code onto the Raspberry Pi. For setup see this short ["How to Guide"](doc/git_pycharm.md){:target="_blank"}
 
+We will use this small python script to make an instant message service between two raspberry pi's the program is both a server and a client, so we canuse the same program on each raspberry.
+
 ```python
-# chat.py  (c) 2013 @whaleygeek
-#
 # A simple internet-chat application
 
 import network
@@ -44,10 +44,7 @@ while network.isConnected():
   
 ```
 
-But first we need to understand the concept of ```computer networks```
-
-
-
+But first we need to understand the concept of ```computer networks``` try looking at this [YouTube](https://www.youtube.com/watch?v=kNJZ-v263zc){:target="_blank"}
 
 ### Support or Contact
 
