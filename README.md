@@ -46,6 +46,8 @@ while network.isConnected():
 
 But first we need to understand the concept of ```computer networks``` try looking at this [YouTube](https://www.youtube.com/watch?v=kNJZ-v263zc){:target="_blank"}
 
+Networking is exchange of information between different useres of a network.
+
 ### Support or Contact
 
 Having trouble with codes or GitHub? Check out [documentation](https://help.github.com/categories/github-pages-basics/){:target="_blank"} or [RaspberryPi](https://www.raspberrypi.org/documentation/){:target="_blank"} and we’ll help you sort it out.
