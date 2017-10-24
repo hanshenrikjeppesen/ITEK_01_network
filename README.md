@@ -48,6 +48,11 @@ But first we need to understand the concept of ```computer networks``` try looki
 
 Networking is exchange of information between different users of a network.
 
+Set the first Raspberry Pi up as a server by typing:
+
+```python3 chat.py```
+
+
 ### Support or Contact
 
 Having trouble with codes or GitHub? Check out [documentation](https://help.github.com/categories/github-pages-basics/){:target="_blank"} or [RaspberryPi](https://www.raspberrypi.org/documentation/){:target="_blank"} and we’ll help you sort it out.
