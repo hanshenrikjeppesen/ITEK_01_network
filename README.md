@@ -46,7 +46,7 @@ while network.isConnected():
 
 But first we need to understand the concept of ```computer networks``` try looking at this [YouTube](https://www.youtube.com/watch?v=kNJZ-v263zc){:target="_blank"}
 
-Networking is exchange of information between different useres of a network.
+Networking is exchange of information between different users of a network.
 
 ### Support or Contact
 
