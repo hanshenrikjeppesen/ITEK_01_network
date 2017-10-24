@@ -52,6 +52,9 @@ Set the first Raspberry Pi up as a server by typing:
 
 ```python3 chat.py```
 
+The second Raspberry Pi will be the client. You need to tell it the IP address of the server that you want to connect to. For example, to connect to a Raspberry Pi that has the IP address ending in the other groups static IP. In this ex. IP of server is ```192.168.0.2```
+
+```python3 chat.py 192.168.0.2```
 
 ### Support or Contact
 
