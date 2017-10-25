@@ -10,3 +10,11 @@ sudo apt-get upgrade
 
 sudo apt-get install samba samba-common-bin
 ```
+### Create a shared directory
+
+We’re going to create a dedicated shared directory on our Pi’s micro SD hard disk. You can put it anywhere, but ours will be in the user (pi) file system.
+
+```
+sudo mkdir -m 1777 /home/pi/remote
+```
+This command sets the sticky bit (1) to help prevent the directory from being accidentally deleted and gives everyone read/write/execute (777) permissions on it.
