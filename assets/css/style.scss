@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
-h1,h2,h3 {
-    text-shadow: 4px 4px 4px #aaa;
+h1 {
+    text-shadow: 2px 2px 2px #aaa;
     font-family: 'Roboto Slab',serif;
 
 }
