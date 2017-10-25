@@ -60,9 +60,10 @@ __let’s restart Samba:__
 
 From now on, Samba will start automatically whenever you power on your Pi.
 
-Lets try to find it on the network
+## Lets try to find it on the network
 
 In windows 10 we need a work-around:
 
+![smb_win10](/images/smb_win10.png)
 
 
