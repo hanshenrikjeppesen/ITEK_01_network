@@ -25,12 +25,15 @@ This command sets the sticky bit (1) to help prevent the directory from being ac
 ```
 sudo nano /etc/samba/smb.conf
 ```
+
+In this example, we need to add the following entry:
+
 ```
 [WORKGROUP]
 Comment = pi shared folder
-Path = /home/pi/share
+Path = /home/pi/remote
 Browseable = yes
-Writeable = Yes
+Writeable = yes
 only guest = no
 create mask = 0777
 directory mask = 0777
@@ -38,5 +41,15 @@ Public = yes
 Guest = yes
 read only = no
 force user = root
-```
 Guest = yes
+```
+
+This means that anyone will be able to read, write, and execute files in the share, either by logging in as a Samba user (which we’ll set up below) or as a guest. If you don’t want to allow guest users, omit the guest ok = yes line.
+
+You could also use Samba to share a user’s home directory so they can access it from elsewhere on the network, or to share a larger external hard disk that lives at a fixed mount point. Just create a smb.conf entry for any path you want to share, and it’ll be made available across your network when you restart Samba.
+
+Create a user and start Samba
+
+```sudo smbpasswd -a pi```
+
+
