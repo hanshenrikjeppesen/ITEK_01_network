@@ -54,7 +54,7 @@ Create a user and start Samba
 
 Then set a password as prompted.
 
-__let’s restart Samba:
+__let’s restart Samba:__
 
 ```sudo /etc/init.d/samba restart```
 
