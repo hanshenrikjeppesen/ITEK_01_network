@@ -25,4 +25,18 @@ This command sets the sticky bit (1) to help prevent the directory from being ac
 ```
 sudo nano /etc/samba/smb.conf
 ```
-
+```
+[WORKGROUP]
+Comment = pi shared folder
+Path = /home/pi/share
+Browseable = yes
+Writeable = Yes
+only guest = no
+create mask = 0777
+directory mask = 0777
+Public = yes
+Guest = yes
+read only = no
+force user = root
+```
+Guest = yes
