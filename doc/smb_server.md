@@ -58,4 +58,11 @@ __let’s restart Samba:__
 
 ```sudo /etc/init.d/samba restart```
 
+From now on, Samba will start automatically whenever you power on your Pi.
+
+Lets try to find it on the network
+
+In windows 10 we need a work-around:
+
+
 
