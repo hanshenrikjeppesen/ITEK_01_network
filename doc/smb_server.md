@@ -56,4 +56,6 @@ Then set a password as prompted.
 
 __let’s restart Samba:
 
+```sudo /etc/init.d/samba restart```
+
 
