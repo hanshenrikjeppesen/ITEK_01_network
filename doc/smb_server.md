@@ -52,4 +52,8 @@ Create a user and start Samba
 
 ```sudo smbpasswd -a pi```
 
+Then set a password as prompted.
+
+__let’s restart Samba:
+
 
