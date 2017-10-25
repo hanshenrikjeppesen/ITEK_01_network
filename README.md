@@ -56,6 +56,10 @@ The second Raspberry Pi will be the client. You need to tell it the IP address o
 
 ```python3 chat.py 192.168.0.2```
 
+## SMB File server on Pi
+
+ ["How to Guide"](doc/smb_server.md){:target="_blank"}
+
 ### Support or Contact
 
 Having trouble with codes or GitHub? Check out [documentation](https://help.github.com/categories/github-pages-basics/){:target="_blank"} or [RaspberryPi](https://www.raspberrypi.org/documentation/){:target="_blank"} and we’ll help you sort it out.
