@@ -11,6 +11,7 @@ ______
 
 ## <span>Introduction</span>
 
+
 This is meant as an introduction to networking using the Raspberry Pi. You will set up and use various networks. You will be introduced to basic networking through practical activities.
 
 ![computer network](/ITEK_01_network/images/network-cable-ethernet-computer-159304.jpeg)
