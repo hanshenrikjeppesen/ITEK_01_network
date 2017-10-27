@@ -62,7 +62,7 @@ The second Raspberry Pi will be the client. You need to tell it the IP address o
 It’s easy to use a Pi as a Samba file server where you can store backups and share files from all the other computers on your network.
 Samba is the Linux implementation of the SMB/CIFS file sharing standard used by Windows PCs and Apple computers, and widely supported by media streamers, games consoles and mobile apps.
 
- ["How to Guide"](doc/smb_server.md){:target="_blank"}
+ <div class="arrow-up"></div>["How to Guide"](doc/smb_server.md){:target="_blank"}
 
 ### Support or Contact
 
