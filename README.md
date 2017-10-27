@@ -57,7 +57,7 @@ The second Raspberry Pi will be the client. You need to tell it the IP address o
 
 ```python3 chat.py 192.168.0.2```
 
-## SMB File server on Pi
+## <span>SMB File server on Pi</span>
 
 It’s easy to use a Pi as a Samba file server where you can store backups and share files from all the other computers on your network.
 Samba is the Linux implementation of the SMB/CIFS file sharing standard used by Windows PCs and Apple computers, and widely supported by media streamers, games consoles and mobile apps.
