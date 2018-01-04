@@ -150,7 +150,7 @@ hopefully everything goes well and you get a message saying `Push successful`
 ![missing](https://hanshenrikjeppesen.github.io/ITEK_01_network/doc/images/rasp_push_succes.png)
 
 
-1. Now we can return to the raspberry pie and give the command `git pull` maybe you will need to do a` sudo got pull`. 
+1. Now we can return to the raspberry pie and give the command `git pull` maybe you will need to do a` sudo git pull`. 
 Git will now retrieve the updated code.
 2. we can test it by running the program again
 
